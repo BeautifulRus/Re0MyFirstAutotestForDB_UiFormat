@@ -2,7 +2,7 @@ package core;
 
 import org.openqa.selenium.WebDriver;
 
-abstract public class BaseSeleniumTestInit extends BaseSeleniumTest{
+abstract public class BaseSeleniumTestInit{
 
     protected static WebDriver driver;
 
